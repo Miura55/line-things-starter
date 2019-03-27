@@ -1,0 +1,7 @@
+curl -X POST https://api.line.me/things/v1/trial/products \
+-H 'Authorization: Bearer e19M+KBXbJM1NpnDLV8XgoJpzqhKJ6Tpm+J5rHJ0BZHfHIclHEf14W0FuUIZnOQcPNtYVW3IVcRozgeiDw8ukauMn9BwrXEASEBlgsWYkXnoVfW4PNbiwcugiGhyp4uM0ea228ycC1qyehQpuMJXEwdB04t89/1O/w1cDnyilFU=' \
+-H 'Content-Type:application/json' \
+-d '{
+  "name": "obniz",
+  "liffId": "line://app/1591107040-vonglo3g"
+}'
