@@ -1,6 +1,6 @@
 // User service UUID: Change this to your generated service UUID
-// const USER_SERVICE_UUID         = 'edcd2eae-1511-495a-9e20-b524913a293c'; // obniz
-const USER_SERVICE_UUID  =  '659ffd27-655f-4871-8a65-f92274a5dc9a'; // micro:bit
+const USER_SERVICE_UUID         = 'db3e4897-bd1f-4ec8-8df9-cef4fe1a86cf'; // obniz
+// const USER_SERVICE_UUID  =  '294fa097-349e-4783-b2f9-b3413a5dbc52'; // micro:bit
 // User service characteristics
 const LED_CHARACTERISTIC_UUID   = 'E9062E71-9E62-4BC6-B0D3-35CDCD9B027B';
 const BTN_CHARACTERISTIC_UUID   = '62FBD229-6EDD-4D1A-B554-5C4E1BB29169';

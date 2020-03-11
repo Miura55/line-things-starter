@@ -2,12 +2,12 @@
 #include <Adafruit_Microbit.h>
 
 // Device Name: Maximum 20 bytes
-#define DEVICE_NAME "micro:bit"
+#define DEVICE_NAME "BBC micro:bit"
 // Local Name in advertising packet: Maximum 29 bytes
 #define LOCAL_NAME "LINE Things Trial micro:bit"
 
 // User Service UUID: Change this to your generated service UUID
-#define USER_SERVICE_UUID "91E4E176-D0B9-464D-9FE4-52EE3E9F1552"
+#define USER_SERVICE_UUID "294fa097-349e-4783-b2f9-b3413a5dbc52"
 // User service characteristics
 #define WRITE_CHARACTERISTIC_UUID "E9062E71-9E62-4BC6-B0D3-35CDCD9B027B"
 #define NOTIFY_CHARACTERISTIC_UUID "62FBD229-6EDD-4D1A-B554-5C4E1BB29169"
